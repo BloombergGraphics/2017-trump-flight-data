@@ -6,7 +6,7 @@ This repo includes data used in a June 1, 2017 story, [Everywhere Trump Traveled
 The data was received via a Freedom of Information Act request to the Federal Aviation Administration for flights of three of his aircraft starting at the approximate date of their registrations through the day before Election Day, Nov. 7, 2016:
 
 * Boeing 757-200 (N757AF), 2010-08-25 through 2016-11-07
-* Cessna Citation X (N76DT), 2010-08-12 through 2017-10-02
+* Cessna Citation X (N76DT), 2010-08-12 through 2016-10-02
 * Sikorsky S-76 (N725DT), 2013-01-22 through 2016-11-07
 
 ## Files
